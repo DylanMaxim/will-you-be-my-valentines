@@ -18,7 +18,7 @@ This is a goofy little website I made to ask my partner a very important questio
 - buttons
 - romance
 - seal gifs
-- 
+  
 ## Why?
 - Putting my Comp Sci degree to good use.
   
